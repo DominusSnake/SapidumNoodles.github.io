@@ -1,3 +1,4 @@
-<DOCTYPE HTML!>
+
 <html>
+  <title> Yeah yeah yeah </title>
 </html>
